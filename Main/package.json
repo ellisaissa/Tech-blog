@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ellisaissa/google-book-search.git"
+    "url": "git+https://github.com/ellisaissa/Tech-blog"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ellisaissa/google-book-search.git/issues"
+    "url": "https://github.com/ellisaissa/Tech-blog/issues"
   },
-  "homepage": "https://github.com/ellisaissa/google-book-search/blob/master/README.md",
+  "homepage": "https://github.com/ellisaissa/Tech-blog/blob/main/Main/views/login.handlebars",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "connect-session-sequelize": "^6.1.1",
