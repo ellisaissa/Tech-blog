@@ -1,0 +1,14 @@
+[
+    {
+      "content": "Comment #1",
+      "date_created": "08/05/2021",
+      "user_id": 3,
+      "post_id": 1
+    },
+    {
+      "content": "Comment #2",
+      "date_created": "08/05/2021",
+      "user_id": 4,
+      "post_id": 2
+    }
+  ]
